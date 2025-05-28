@@ -1,4 +1,4 @@
-#Singapore MRT Route Finder
+### Singapore MRT Route Finder
 
 This project models the Singapore MRT system using a graph data structure and computes both the shortest path (fewest stops) and the fastest path (based on estimated travel time) between stations.
 
