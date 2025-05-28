@@ -14,3 +14,4 @@ This project models the Singapore MRT system using a graph data structure and co
 
 1. Place `stations.csv` in the folder.
 2. Download required libraries from "requirements.txt".
+3. Run the program.
